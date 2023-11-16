@@ -27,5 +27,3 @@ The code includes several test cases to demonstrate its functionality. These tes
 2. Open the JavaScript file (`palindromeChecker.js`) in your preferred code editor.
 3. Modify the test cases or add your own if needed.
 4. Run the script to see the results of the palindrome checks.
-
-Feel free to use and modify this code according to your requirements!
