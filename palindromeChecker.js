@@ -1,3 +1,4 @@
+// Function to check if a given string is a palindrome
 function isPalindrome(str) {
 	// Remove non-alphanumeric characters and convert to lowercase
 	const cleanedStr = str.replace(/[^a-zA-Z0-9]/g, "").toLowerCase();
